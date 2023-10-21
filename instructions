@@ -1,0 +1,8 @@
+apk update
+apk add sane
+apk add hplip (optional)
+apk add sane-utils
+apk add sane-saned
+apk add sane-backend-hp (optional)
+apk add sane-backend-hpljm1005
+apk add sane-backend-net

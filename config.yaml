@@ -1,0 +1,14 @@
+name: Sane
+version: "1.0"
+slug: sane-scanner
+description: A Sane server for wireless scanning
+arch:
+  - amd64
+  - aarch64
+usb: true
+init: false
+homeassistant_api: true
+host_network: true
+map:
+  - config:rw
+
