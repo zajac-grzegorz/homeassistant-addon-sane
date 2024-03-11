@@ -1,5 +1,6 @@
 # homeassistant addon sane scanner
-Scan using Sane addon 
+
+Scan using Sane addon
 
 Tested with Home Assistant version **2023.9**
 
