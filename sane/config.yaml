@@ -11,4 +11,4 @@ init: false
 homeassistant_api: true
 host_network: true
 map:
-  - config:rw
+  - addon_config:rw
