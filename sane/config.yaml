@@ -1,6 +1,6 @@
 ---
 name: Sane
-version: "1.0"
+version: "dev"
 slug: sane-scanner
 description: A Sane server for wireless scanning
 arch:
