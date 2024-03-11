@@ -9,6 +9,7 @@ SHELL ["/bin/ash", "-o", "pipefail", "-c"]
 ENV TERM="xterm-256color"
 
 # Setup base
+# hadolint ignore=DL3018
 RUN apk add --no-cache \
     nano \
     sane \
